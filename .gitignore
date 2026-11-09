@@ -1,0 +1,13 @@
+build/
+__pycache__/
+*.pyc
+data/
+*.bin
+*.label
+*.onnx
+*.pt
+*.png
+!docs/*.png
+!results/*.png
+.vscode/
+.idea/
